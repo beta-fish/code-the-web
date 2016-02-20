@@ -1,0 +1,21 @@
+.card-25 {
+    width: 25%;
+}
+.card-50 {
+    width: 50%;
+}
+.card-75 {
+    width: 75%;
+}
+.card-100 {
+    width: 100%;
+}
+.center {
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+.blue {
+    background: #3498db;
+}
